@@ -1,0 +1,2 @@
+if you fail to open/import the attached .twbx, then you can use link https://public.tableau.com/app/profile/javidan.hajiyev/viz/SuperstoreUfaz/SalesInsightsStory   
+ Press edit on top right to review full workbook.
